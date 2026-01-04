@@ -1,0 +1,1 @@
+export const nameToBeChanged = "Import and change the name."
